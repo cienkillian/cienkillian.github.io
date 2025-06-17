@@ -1,5 +1,5 @@
 title: cien.portfolio
-description: Personal project's
-show_downloads: true
-google_analytics:
+description: A showcase of personal project's
+show_downloads: false
+google_analytics: 
 theme: jekyll-theme-cayman
